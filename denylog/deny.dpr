@@ -13,7 +13,7 @@ const
   KEY_QUIET = '/quiet'; // Parameter: do not show dialog
 
 resourcestring
-  CAPTION = 'Execution Master: an attempt to run a blocked program';
+  CAPTION = 'exe-cutie: an attempt to run a blocked program';
   VERB = 'This program is not allowed to run:';
 
 begin
