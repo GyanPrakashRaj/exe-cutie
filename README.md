@@ -10,9 +10,7 @@ run it. You can assign one of the several standard actions for it:
  - Always **drop administrative privileges** of specified program;
  - Request **elevation** for the program at every launch;
  - Force system **not to sleep** / **display to be on** while the selected program works;
- - **Execute** another program instead of the specified.
-
-![](https://user-images.githubusercontent.com/30962924/46260732-70e53780-c4f2-11e8-908c-d1c55b44aabe.png)
+ - **Execute** another program instead of the specified
 
 The latest version also contains shell extension:
 
